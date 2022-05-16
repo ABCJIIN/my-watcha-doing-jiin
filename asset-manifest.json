@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-watcha-doing-jiin/static/css/main.4c316b76.css",
+    "main.js": "/my-watcha-doing-jiin/static/js/main.46b63455.js",
+    "static/js/787.d381be8f.chunk.js": "/my-watcha-doing-jiin/static/js/787.d381be8f.chunk.js",
+    "index.html": "/my-watcha-doing-jiin/index.html",
+    "main.4c316b76.css.map": "/my-watcha-doing-jiin/static/css/main.4c316b76.css.map",
+    "main.46b63455.js.map": "/my-watcha-doing-jiin/static/js/main.46b63455.js.map",
+    "787.d381be8f.chunk.js.map": "/my-watcha-doing-jiin/static/js/787.d381be8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c316b76.css",
+    "static/js/main.46b63455.js"
+  ]
+}
